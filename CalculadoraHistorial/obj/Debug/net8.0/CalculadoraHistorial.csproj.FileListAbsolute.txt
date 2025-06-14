@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp8\tl1-tp8-2025-EduardoM9517\CalculadoraHistorial\bin\Debug\net8.0\CalculadoraHistorial.exe
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp8\tl1-tp8-2025-EduardoM9517\CalculadoraHistorial\bin\Debug\net8.0\CalculadoraHistorial.deps.json
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp8\tl1-tp8-2025-EduardoM9517\CalculadoraHistorial\bin\Debug\net8.0\CalculadoraHistorial.runtimeconfig.json
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp8\tl1-tp8-2025-EduardoM9517\CalculadoraHistorial\bin\Debug\net8.0\CalculadoraHistorial.dll
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp8\tl1-tp8-2025-EduardoM9517\CalculadoraHistorial\bin\Debug\net8.0\CalculadoraHistorial.pdb
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp8\tl1-tp8-2025-EduardoM9517\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp8\tl1-tp8-2025-EduardoM9517\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp8\tl1-tp8-2025-EduardoM9517\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.AssemblyInfo.cs
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp8\tl1-tp8-2025-EduardoM9517\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp8\tl1-tp8-2025-EduardoM9517\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.sourcelink.json
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp8\tl1-tp8-2025-EduardoM9517\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.dll
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp8\tl1-tp8-2025-EduardoM9517\CalculadoraHistorial\obj\Debug\net8.0\refint\CalculadoraHistorial.dll
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp8\tl1-tp8-2025-EduardoM9517\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.pdb
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp8\tl1-tp8-2025-EduardoM9517\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.genruntimeconfig.cache
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp8\tl1-tp8-2025-EduardoM9517\CalculadoraHistorial\obj\Debug\net8.0\ref\CalculadoraHistorial.dll
